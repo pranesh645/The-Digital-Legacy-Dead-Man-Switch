@@ -74,5 +74,4 @@ The application follows a modular architecture to ensure security and reliabilit
 
 **Pranesh R**
 *   B.Tech Information Technology
-*   [GitHub](https://github.com/pranesh645) | [LinkedIn](www.linkedin.com/in/
-pranesh-PR)
+*   [GitHub](https://github.com/pranesh645) | [LinkedIn](www.linkedin.com/in/pranesh-PR)
