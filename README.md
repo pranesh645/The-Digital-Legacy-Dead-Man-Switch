@@ -1,2 +1,2 @@
 # The-Digital-Legacy-Dead-Man-Switch
-Chronos is a secure digital legacy management system designed  
+Chronos is a secure digital legacy management system designed to ensure that your sensitive information, digital assets, and final messages are safely delivered to designated beneficiaries in the event of your absence. Utilizing a Dead Man Switch mechanism, the system monitors user activity and triggers automated data release only when predefined conditions are met.
