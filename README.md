@@ -72,6 +72,7 @@ The application follows a modular architecture to ensure security and reliabilit
 
 ## 👨‍💻 Author
 
-**Aravinth Senthil**
+**Pranesh R**
 *   B.Tech Information Technology
-*   [GitHub](https://github.com/aravinthsenthil23) | [LinkedIn](https://linkedin.com/in/senthilaravinth)
+*   [GitHub](https://github.com/pranesh645) | [LinkedIn](www.linkedin.com/in/
+pranesh-PR)
